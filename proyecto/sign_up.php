@@ -61,7 +61,7 @@
                   <div class="form-check d-flex justify-content-center mb-5">
                     <input class="form-check-input me-2" type="checkbox" value="" id="terms" required />
                     <label class="form-check-label" for="terms">
-                      I agree all statements in <a href="#!">Terms of service</a>
+                      I agree all statements in <a href="">Terms of service</a>
                     </label>
                   </div>
 

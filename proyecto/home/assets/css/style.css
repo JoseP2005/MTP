@@ -94,8 +94,8 @@ html, body {
   box-shadow: 4px 4px 0px 0px #dddddd;
 }
 .rectangle img {
-  width: 30px; /* Ajusta el tamaño de la imagen */
-  height: 30px;
+  width: 40px; /* Ajusta el tamaño de la imagen */
+  height: 25px;
   display: block; /* Para eliminar márgenes o espacios adicionales */
   margin: auto; /* Centrar la imagen dentro del div */
   transform: rotate(-45deg); /* Contrarrestar la rotación del div */
@@ -2044,7 +2044,8 @@ html, body {
 
 /* Sections background: Quote */
 .section-quote {
-  background: url(../img/quote.jpg) center no-repeat fixed;
+  background: url(../img/image1_1dca8ddf-cbfd-4182-8f57-4c4c43ddcb7e.webp) center no-repeat fixed;
+  background-size: cover;
 }
 
 .section-quote p {
