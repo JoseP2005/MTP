@@ -1,4 +1,10 @@
 # Proyecto PHP con XAMPP
+## Version para local
+
+si unicamente se quiere probar el proyecto, se puede descargar la carpeta src 
+
+donde se puede ver la pagina home, que no opera con php ni xampp, ni con bases de datos, ese es el proyecto base
+
 
 ## Descripción del Proyecto
 Este proyecto implementa una aplicación web que utiliza PHP y MySQL para gestionar funciones de inicio de sesión, registro de usuarios y otras funcionalidades relacionadas con la autenticación. El diseño incluye archivos HTML y CSS para la interfaz visual y scripts en PHP para la lógica del lado del servidor.
